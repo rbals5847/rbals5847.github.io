@@ -43,5 +43,4 @@
 # 📱연락처 Contact
 > e-mail : rbals58471@naver.com
 > 
-> github : <a href="https://github.com/rbals5847">
-  <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
+> github : <a href="https://github.com/rbals5847"> <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
