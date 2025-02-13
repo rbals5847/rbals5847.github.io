@@ -2,6 +2,16 @@
 
 > 김규민_포트폴리오
 > GyuMin Kim_Portfolio
+>
+# ❓자기소개 ntroduction about myself
+> 이름 : 김규민
+> 생년월일 : 1999년 10월 31일
+> 학교 : 수원대학교 전기공학과 졸업
+>
+> Name : GyuMin Kim
+> Date of Birth : October 31, 1999
+> Education : Graduated from Suwon University, Department of Electrical Engineering
+
 
 # 👋 나에 대한 작은 이야기 A Little About Me 
 
