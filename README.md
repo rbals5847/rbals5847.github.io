@@ -3,7 +3,7 @@
 > 김규민_포트폴리오
 > GyuMin Kim_Portfolio
 >
-# ❓자기소개 ntroduction about myself
+# ❓자기소개 introduction about myself
 > 이름 : 김규민
 > 
 > 생년월일 : 1999년 10월 31일
