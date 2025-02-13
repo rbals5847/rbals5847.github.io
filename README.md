@@ -5,11 +5,15 @@
 >
 # ❓자기소개 ntroduction about myself
 > 이름 : 김규민
+> 
 > 생년월일 : 1999년 10월 31일
+> 
 > 학교 : 수원대학교 전기공학과 졸업
 >
 > Name : GyuMin Kim
+> 
 > Date of Birth : October 31, 1999
+> 
 > Education : Graduated from Suwon University, Department of Electrical Engineering
 
 
