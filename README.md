@@ -3,10 +3,6 @@
 > 김규민_포트폴리오
 > GyuMin Kim_Portfolio
 
-
-
-
-
 # 👋 나에 대한 작은 이야기 A Little About Me 
 
 > 안녕하세요! ***"해결책을 설계하고 성공을 만들어내고싶은"*** 펌웨어 임베디드 개발자 김규민입니다!
@@ -18,39 +14,20 @@
 > I have documented and shared what I have learned and the projects I have worked on, providing me with an opportunity to review and grow while serving as a valuable resource for others.
 
 
-
-
-
 > # 🏷️프로젝트 Projects
 >
 > 제가 진행했던 프로젝트들입니다. 팀원들과 긴밀히 협력하며 소통하고 직접 문제를 해결하며 프로젝트를 완성했습니다.
 >
 > Here are the projects I have worked on. I closely collaborated with my team, communicated effectively, and directly solved problems to successfully complete the projects.
 
-
-
-
-
 ## 프로젝트1제목
 > 설명과 주소
-
-
-
-
 
 ## 프로젝트2제목
 > 설명과 주소
 
-
-
-
-
 ## 프로젝트3제목
 > 설명과 주소
-
-
-
-
 
 # 📱연락처 Contact
 > e-mail : rbals58471@naver.com
