@@ -34,14 +34,13 @@
 >
 > Here are the projects I have worked on. I closely collaborated with my team, communicated effectively, and directly solved problems to successfully complete the projects.
 
-## 프로젝트1제목
-> 설명과 주소
+## 화재경보시스템
+> https://github.com/rbals5847/HomeSecuritySystem.github.io
 
-## 프로젝트2제목
-> 설명과 주소
+## 스마트팜
+> https://github.com/rbals5847/SmartFarm
 
-## 프로젝트3제목
-> 설명과 주소
+
 
 # 📱연락처 Contact
 > e-mail : rbals58471@naver.com
